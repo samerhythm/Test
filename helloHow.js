@@ -1,4 +1,3 @@
 hello
 'how'
-'you'
-'doing'
+'are'
